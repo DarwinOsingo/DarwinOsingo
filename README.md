@@ -18,7 +18,7 @@ Full-stack dev
 
 * 🌍  I'm based in Nairobi,kenya
 * ✉️  You can contact me at [osingoosteen@gmail.com](mailto:osingoosteen@gmail.com)
-* 🚀  I'm currently working on [A mini terminal purely in c that can accept user commands eg ls,mkdir executes the commandwait for the process to finish supports some built in commands like cd and exit](http://https://github.com/DarwinOsingo/C-Mini-terminal)
+  
 * 🧠  I'm currently learning Learning both C and C++
 * 👥  I'm looking to collaborate on Interesting projects
 
