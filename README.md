@@ -1,45 +1,117 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Darwin Osteen
-======================================================================================================================================
+<div align="center">
 
-Full-stack Developer | AI/ML Enthusiast
----------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Darwin%20Osingo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Researcher%20%7C%20BIT%20Student%20%40%20JKUAT&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-💻 I'm a full-stack developer with a strong foundation in Python, Flask, JavaScript, and React.
+</div>
 
-🤖 Exploring the intersection of AI/ML and software development, with hands-on experience in machine learning algorithms and data-driven applications.
+<div align="center">
 
-🚀 I'm passionate about building reliable, scalable software that solves real-world problems and delivers meaningful impact.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+systems+for+African+governance+%F0%9F%8C%8D;Multi-agent+LLM+simulations+of+Kenya's+Cabinet;Procurement+fraud+detection+with+Graph+AI;Independent+ML+Researcher+%7C+JKUAT+BIT+Year+1)](https://git.io/typing-svg)
 
-🎓 Currently pursuing a Bachelor's in Business and Information Technology.
+</div>
 
-🏫 A graduate of Moringa School's Full-Stack Development Program.
+---
 
-📘 I've also completed Harvard's CS50x, where I deepened my understanding of computer science fundamentals and software design.
+## 🧠 About Me
 
-🧠 Developer. Thinker. Builder. Always learning, always improving. ⚡
+I'm a first-year BIT student at **JKUAT** and an independent ML researcher building AI systems at the intersection of governance, accountability, and African public policy. My work focuses on applying large language models, RAG pipelines, and graph databases to real problems in the Kenyan civic space.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [osingoosteen@gmail.com](mailto:osingoosteen@gmail.com)
-* 🧠  I'm currently learning C, C++, and Machine Learning with TensorFlow/PyTorch
-* 🤝  I'm looking to collaborate on AI-powered applications and interesting projects
-* 🔬  Interested in: Natural Language Processing, Computer Vision, and Predictive Analytics
+- 🏛️ **Active research:** Multi-agent LLM simulation of Kenya's Cabinet (PRES) — targeting ICLR Africa / AAMAS 2026
+- 🔎 **Active research:** AI-powered procurement fraud detection over Kenya's PPIP/OCDS data
+- 🎓 **Background:** Moringa School Full-Stack Cert · CS50x · CS50 AI · CS50 Python · Stanford Supervised ML
+- 🌍 Based in **Nairobi, Kenya**
+- 📬 Reach me at [osingoosteen@gmail.com](mailto:osingoosteen@gmail.com)
 
-### Skills
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-</p>
+## 🚀 Flagship Projects
 
-### ML/AI Tools & Libraries
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn
-- **Data Science**: NumPy, Pandas, Matplotlib, Seaborn
-- **NLP**: NLTK, spaCy
-- **Computer Vision**: OpenCV
+### 🏛️ Kenya AI Executive Roundtable (PRES)
+> *Multi-agent simulation of Kenya's President + 6 Cabinet Secretaries debating national policy*
 
-### Socials
+A research system where fine-tuned LLM agents role-play Kenya's Cabinet using real Hansard Q&A data. Built with a hybrid RAG retriever, live inter-agent citation conflict tracking, and a 4-dimension automated evaluation rubric validated against real parliamentary records.
 
-<p align="left"> <a href="https://www.github.com/DarwinOsingo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/darwin-osingo-4ab61429a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+**Stack:** `DeepSeek R1 Distill Qwen 14B` · `QLoRA via Unsloth` · `Qdrant` · `Voyage AI Embeddings` · `BAAI Reranker` · `Groq` · `NetworkX` · `BM25 + RRF Fusion`
 
-### Badges
+---
 
-<a href="https://github.com/DarwinOsingo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinOsingo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🔍 Kenya Procurement Corruption Detection System
+> *AI-powered fraud detection over Kenya's public procurement pipeline*
+
+Maps supplier/contractor networks from structured OCDS data to surface shell companies, linked directors, and inflated tenders. Targets the structural enforcement gap between auditor findings and actual recovery.
+
+**Stack:** `Jamba (Mamba-Transformer hybrid)` · `FalkorDB / Neo4j` · `RAG Pipeline` · `tenders.go.ke OCDS Data`
+
+---
+
+### 🗳️ Elect 2027 & Fake News Detection
+> Civic AI tools targeting Kenya's 2027 election cycle — fake news classifier at **89% accuracy**
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / ML Research
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f172a?style=for-the-badge&logo=huggingface&logoColor=ffd21e)
+
+### LLMs & RAG Infrastructure
+![Qdrant](https://img.shields.io/badge/Qdrant-0f172a?style=for-the-badge&logo=qdrant&logoColor=dc2626)
+![Groq](https://img.shields.io/badge/Groq-0f172a?style=for-the-badge&logo=groq&logoColor=38bdf8)
+![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=langchain&logoColor=10b981)
+![Neo4j](https://img.shields.io/badge/Neo4j-0f172a?style=for-the-badge&logo=neo4j&logoColor=4581c3)
+
+### Data & Web
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=150458)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8)
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+### Tooling & Infra
+![Linux](https://img.shields.io/badge/Ubuntu_WSL2-0f172a?style=for-the-badge&logo=ubuntu&logoColor=e95420)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
+
+---
+
+## 📜 Certifications
+
+| Credential | Issuer | Year |
+|---|---|---|
+| Supervised Machine Learning: Regression & Classification | Stanford / DeepLearning.AI | 2026 |
+| CS50's Introduction to AI with Python | Harvard | 2025 |
+| CS50P – Python | Harvard | 2025 |
+| CS50x – Intro to Computer Science | Harvard | 2024 |
+| Full-Stack Software Engineering | Moringa School | 2024 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarwinOsingo&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=38bdf8&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinOsingo&langs_count=8&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117&layout=compact"/>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/darwin-osingo-4ab61429a/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)](https://www.github.com/DarwinOsingo)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:osingoosteen@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
