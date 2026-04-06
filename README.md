@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a first-year BIT student at **JKUAT** and an independent ML researcher building AI systems at the intersection of governance, accountability, and African public policy. My work focuses on applying large language models, RAG pipelines, and graph databases to real problems in the Kenyan civic space.
+I'm a first-year BBIT student at **JKUAT** and an independent ML researcher building AI systems at the intersection of governance, accountability, and African public policy. My work focuses on applying large language models, RAG pipelines, and graph databases to real problems in the Kenyan civic space.
 
 - 🏛️ **Active research:** Multi-agent LLM simulation of Kenya's Cabinet (PRES) — targeting ICLR Africa / AAMAS 2026
 - 🔎 **Active research:** AI-powered procurement fraud detection over Kenya's PPIP/OCDS data
@@ -86,8 +86,8 @@ Maps supplier/contractor networks from structured OCDS data to surface shell com
 | Supervised Machine Learning: Regression & Classification | Stanford / DeepLearning.AI | 2026 |
 | CS50's Introduction to AI with Python | Harvard | 2025 |
 | CS50P – Python | Harvard | 2025 |
-| CS50x – Intro to Computer Science | Harvard | 2024 |
-| Full-Stack Software Engineering | Moringa School | 2024 |
+| CS50x – Intro to Computer Science | Harvard | 2025 |
+| Full-Stack Software Engineering | Moringa School | 2025 |
 
 ---
 
